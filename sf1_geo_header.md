@@ -16,7 +16,7 @@ Geographic Header Record—Summary File 1 State
 |4|Geographic Component | GEOCOMP | 2 | 12 | A/N |
 |5|Characteristic Iteration | CHARITER | 3 | 14 | A/N |
 |6|Characteristic Iteration File Sequence Number | CIFSN | 2 | 17 | A/N |
-|7Logical Record Number | LOGRECNO | 7 | 19 | N |
+|7|Logical Record Number | LOGRECNO | 7 | 19 | N |
 |8|Region | REGION | 1 | 26 | A/N |
 |9|Division | DIVISION | 1 | 27 | A/N |
 |10|State (FIPS) | STATE | 2 | 28 | A/N |
@@ -24,7 +24,7 @@ Geographic Header Record—Summary File 1 State
 |12|FIPS County Class Code | COUNTYCC | 2 | 33 | A/N |
 |13|County Size Code | COUNTYSC | 2 | 35 | A/N |
 |14|County Subdivision (FIPS) | COUSUB | 5 | 37 | A/N |
-|15FIPS County Subdivision Class Code | COUSUBCC | 2 | 42 | A/N |
+|15|FIPS County Subdivision Class Code | COUSUBCC | 2 | 42 | A/N |
 |16|County Subdivision Size Code | COUSUBSC | 2 | 44 | A/N |
 |17|Place (FIPS) | PLACE | 5 | 46 | A/N |
 |18|FIPS Place Class Code | PLACECC | 2 | 51 | A/N |
