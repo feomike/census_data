@@ -9,7 +9,7 @@ Figure 2-5.
 Geographic Header Record—Summary File 1 State
 
 | Num | Field | Name | Size | Start Position | Data Type |
-|-------|------|------|----------------|-----------|
+|-----|-------|------|------|----------------|-----------|
 |1|File Identification|FILEID | 6 | 1 | A/N | 
 |2|State/U.S. Abbreviation (USPS) | STUSAB | 2 | 7 | A |
 |3|Summary Level | SUMLEV | 3 | 9 | A/N |
